@@ -1,0 +1,4 @@
+{
+	"dbPath": "mongodb://localhost:27017/CRUD_DB",
+	"port": 7012
+}
